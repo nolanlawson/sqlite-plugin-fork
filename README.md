@@ -1,4 +1,4 @@
-# Cordova/PhoneGap SQLitePlugin fork![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
+# Cordova/PhoneGap SQLitePlugin fork ![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
 
 This is a snapshot of the [SQLite Plugin](https://github.com/litehelpers/Cordova-sqlite-storage) back when it was passing the PouchDB test suite on Android/iOS at 100%. Since then, it has regressed.
 
